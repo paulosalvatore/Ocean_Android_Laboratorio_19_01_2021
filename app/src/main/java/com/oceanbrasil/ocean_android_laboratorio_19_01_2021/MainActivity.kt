@@ -28,6 +28,8 @@ class MainActivity : AppCompatActivity() {
         btAbrirResultado.setOnClickListener {
             val intent = Intent(this, ResultActivity::class.java)
 
+            intent.putExtra("NOME_DIGITADO", etNome.text.toString())
+
             startActivity(intent)
         }
     }
