@@ -1,8 +1,7 @@
-package com.oceanbrasil.ocean_android_introducao_18_01_2021
+package com.oceanbrasil.ocean_android_laboratorio_19_01_2021
 
+import org.junit.Assert.assertEquals
 import org.junit.Test
-
-import org.junit.Assert.*
 
 /**
  * Example local unit test, which will execute on the development machine (host).

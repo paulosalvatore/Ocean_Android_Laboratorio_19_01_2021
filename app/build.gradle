@@ -8,7 +8,7 @@ android {
     buildToolsVersion "30.0.0"
 
     defaultConfig {
-        applicationId "com.oceanbrasil.ocean_android_introducao_18_01_2021"
+        applicationId "com.oceanbrasil.ocean_android_laboratorio_19_01_2021"
         minSdkVersion 16
         targetSdkVersion 29
         versionCode 1

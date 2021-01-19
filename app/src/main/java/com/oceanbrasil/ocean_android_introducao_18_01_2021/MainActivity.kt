@@ -1,4 +1,4 @@
-package com.oceanbrasil.ocean_android_introducao_18_01_2021
+package com.oceanbrasil.ocean_android_laboratorio_19_01_2021
 
 import android.os.Bundle
 import android.widget.Button
