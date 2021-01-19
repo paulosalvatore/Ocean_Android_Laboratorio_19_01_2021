@@ -5,4 +5,5 @@
     <string name="insert_your_name">Digite o seu nome...</string>
     <string name="send">Enviar</string>
     <string name="open_result_screen">Abrir Tela de Resultado</string>
+    <string name="hello_name">Olá, %1$s!</string>
 </resources>
