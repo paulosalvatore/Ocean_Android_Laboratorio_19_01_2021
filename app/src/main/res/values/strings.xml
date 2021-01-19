@@ -6,4 +6,5 @@
     <string name="open_result_screen">Open Result Screen</string>
     <string name="hello_name">Hello, %1$s!</string>
     <string name="send_result">Send Result</string>
+    <string name="receive_result_screen">Open Screen to Get Result</string>
 </resources>

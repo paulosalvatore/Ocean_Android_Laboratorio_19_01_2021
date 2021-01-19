@@ -7,4 +7,5 @@
     <string name="open_result_screen">Abrir Tela de Resultado</string>
     <string name="hello_name">Olá, %1$s!</string>
     <string name="send_result">Enviar Resultado</string>
+    <string name="receive_result_screen">Abrir Tela para Receber Resultado</string>
 </resources>
