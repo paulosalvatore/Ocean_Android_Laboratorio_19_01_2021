@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ocean_Android_Laboratorio_19_01_2021</string>
+    <string name="result">Resultado</string>
+    <string name="insert_your_name">Digite o seu nome...</string>
+    <string name="send">Enviar</string>
+    <string name="open_result_screen">Abrir Tela de Resultado</string>
+</resources>
