@@ -9,7 +9,7 @@ class ResultActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_result)
 
-        val nomeDigitado = intent.getStringExtra("NOME_DIGITADO")
+        val nomeDigitado = intent.getStringExtra(MainActivity.NOME_DIGITADO)
 
         val textView = findViewById<TextView>(R.id.textView)
 

@@ -8,6 +8,11 @@ import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
 
 class MainActivity : AppCompatActivity() {
+
+    companion object {
+        const val NOME_DIGITADO = "NOME_DIGITADO"
+    }
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
@@ -28,7 +33,7 @@ class MainActivity : AppCompatActivity() {
         btAbrirResultado.setOnClickListener {
             val intent = Intent(this, ResultActivity::class.java)
 
-            intent.putExtra("NOME_DIGITADO", etNome.text.toString())
+            intent.putExtra(NOME_DIGITADO, etNome.text.toString())
 
             startActivity(intent)
         }
