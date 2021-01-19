@@ -16,7 +16,6 @@ class MainActivity : AppCompatActivity() {
         val etNome = findViewById<EditText>(R.id.etNome)
 
         btEnviar.setOnClickListener {
-//            tvResultado.text = "Olá, Paulo Salvatore!"
             if (etNome.text.isNotBlank()) {
                 tvResultado.text = "Olá, ${etNome.text}!"
             } else {
